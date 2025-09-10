@@ -31,7 +31,12 @@
                     "icon": "img/icons/square-meters.svg",
                     "value": "304 m²"
                 }
-            ]
+            ],
+            "label": {
+                "classTtl": "card-prop__label popular-lb",
+                "iconClass": "_icon-popular",
+                "text": "POPULAR"
+            }
         },
         {
             "id": 2,
@@ -64,7 +69,10 @@
                     "icon": "img/icons/square-meters.svg",
                     "value": "404 m²"
                 }
-            ]
+            ],
+            "label": {}
+            
+            
         },
         {
             "id": 3,
@@ -97,7 +105,12 @@
                     "icon": "img/icons/square-meters.svg",
                     "value": "104 m²"
                 }
-            ]
+            ],
+            "label": {
+                "classTtl": "card-prop__label lb-gold",
+                "iconClass": "_icon-popular",
+                "text": "New"
+            }
         }
     ]
 }
